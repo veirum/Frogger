@@ -12,7 +12,7 @@ function draw() {
   frog.update();
   frog.show();
 }
-
+//just a quick comment to pove a point. I can be deleted!
 function keyPressed() {
   if (keyCode === LEFT_ARROW) {
     frog.x -= 50;
